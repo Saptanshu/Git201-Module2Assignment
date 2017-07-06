@@ -1,0 +1,2 @@
+bypass contents to staging area
+ to remote repo
