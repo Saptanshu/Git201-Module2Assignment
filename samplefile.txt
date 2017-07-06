@@ -1,1 +1,3 @@
-adding some content to the file check versioning
+adding some content to the file check versioning.
+
+This content is added from the cloned local repo
