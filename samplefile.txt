@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 adding some content to the file check versioning
 
 
 This will show up in the diff command.
-=======
+
 adding some content to the file check versioning.
 
 This content is added from the cloned local repo
->>>>>>> 03906e55d9b961afed872788f4cd8cde9ec26946
+This is modification in forked feature branch
+
